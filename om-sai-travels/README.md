@@ -146,4 +146,4 @@ Copy the output and use it in the `UPDATE` SQL above.
 | Admin can't log in | Re-run the `UPDATE admins` SQL above to reset the password. |
 | `mod_rewrite`-style 404s | This project uses plain `.php` URLs, no rewrite needed. |
 
-Built with ❤ in Maharashtra. Enjoy your bus business!
+Thank You. Enjoy your ride!
